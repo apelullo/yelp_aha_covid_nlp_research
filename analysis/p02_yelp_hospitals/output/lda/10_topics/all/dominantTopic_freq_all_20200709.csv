@@ -1,0 +1,11 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"wait, hour, room, time, call, emergency, check, minute, back, long",1089,0.114390756302521,818,0.13674356402540958,271,0.07659694742792539,-547,-43.984970719578286
+1,1.0,"patient, care, mom, family, mother, life, staff, medical, die, facility",886,0.0930672268907563,436,0.07288532263457038,450,0.12719050310910118,14,74.50770403638606
+2,2.0,"make, feel, nurse, time, experience, baby, care, child, son, give",887,0.09317226890756303,523,0.08742895352724842,364,0.10288298473713962,-159,17.67610223662891
+3,3.0,"nurse, day, test, night, stay, room, blood, husband, bed, discharge",617,0.0648109243697479,390,0.06519558676028084,227,0.06416054267947993,-163,-1.5875983823976985
+4,4.0,"doctor, care, medical, year, appointment, procedure, work, health, treatment, week",736,0.0773109243697479,465,0.07773319959879639,271,0.07659694742792539,-194,-1.4617334378817923
+5,5.0,"patient, people, walk, talk, rude, place, horrible, hear, leave, person",936,0.09831932773109243,569,0.09511868940153795,367,0.10373092142453363,-202,9.054195423824288
+6,6.0,"hospital, bad, place, work, give, treat, people, experience, star, wife",722,0.07584033613445378,445,0.07438983617519224,277,0.0782928208027134,-168,5.2466638296250725
+7,7.0,"staff, surgery, good, care, great, nice, clean, professional, friendly, food",1728,0.1815126050420168,1171,0.19575392845202275,557,0.1574335782928208,-614,-19.575775802933045
+8,8.0,"call, pay, insurance, bill, receive, visit, month, send, service, charge",921,0.0967436974789916,540,0.09027081243731194,381,0.107687959299039,-159,19.294328245713196
+9,9.0,"doctor, pain, give, back, home, medication, med, symptom, send, put",998,0.10483193277310925,625,0.10448010698762955,373,0.10542679479932165,-252,0.9060938383267466

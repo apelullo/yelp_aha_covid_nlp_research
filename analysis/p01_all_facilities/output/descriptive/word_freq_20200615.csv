@@ -1,0 +1,21 @@
+,word_all_t1,count_all_t1,word_all_t2,count_all_t2,word_covid_t1,count_covid_t1,word_covid_t2,count_covid_t2,word_tele_t1,count_tele_t1,word_tele_t2,count_tele_t2,word_merge_t1,count_merge_t1,word_merge_t2,count_merge_t2
+0,dr,51251,dr,33349,get,924,covid,6015,care,81,dr,753,care,11,dr,480
+1,time,39980,time,22608,time,880,time,5785,dr,80,appointment,526,get,10,time,341
+2,would,32612,would,20955,would,878,dr,5727,doctor,75,time,522,go,9,office,331
+3,get,32589,get,19710,doctor,851,get,5673,would,74,office,492,doctor,9,appointment,330
+4,doctor,30494,staff,18358,care,771,would,5537,time,73,doctor,474,room,9,covid,327
+5,staff,30460,care,18256,one,765,care,4597,get,72,would,471,feel,8,would,317
+6,care,30047,doctor,18012,back,757,one,4562,like,60,get,456,health,7,get,298
+7,back,29323,one,16748,dr,756,back,4248,see,59,care,411,people,7,doctor,298
+8,one,26489,back,16032,said,750,staff,4195,back,57,call,400,medical,7,call,268
+9,office,25024,office,15515,told,712,told,4149,never,55,one,333,super,7,care,259
+10,go,23664,like,14271,like,706,doctor,3992,said,54,covid,327,one,7,go,212
+11,like,23360,go,14101,go,665,office,3980,office,53,called,326,dr,7,said,210
+12,appointment,22081,even,12512,room,576,go,3941,one,50,back,301,would,7,one,207
+13,great,21101,told,12439,even,564,19,3663,also,49,even,299,going,6,19,207
+14,told,20391,never,11821,staff,529,even,3648,called,43,zoom,297,roze,6,called,205
+15,place,19979,appointment,11608,mask,512,like,3554,call,41,go,293,roze room,6,covid 19,203
+16,even,19976,great,11539,people,508,covid 19,3536,appointment,41,told,292,forward,6,back,198
+17,never,19489,could,10680,asked,482,appointment,3456,could,41,said,288,time,6,could,194
+18,see,18135,place,10665,went,482,said,3414,video,40,also,276,said,6,like,193
+19,recommend,17151,said,10464,could,478,called,3195,went,38,like,275,see,5,even,190

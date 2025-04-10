@@ -1,0 +1,11 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"surgery, make, feel, good, baby, procedure, experience, time, team, meet",90,0.10514018691588785,9.0,0.09375,81,0.10657894736842105,72.0,13.684210526315788
+1,1.0,"nurse, hospital, doctor, day, give, symptom, home, virus, mom, hour",117,0.1366822429906542,13.0,0.13541666666666666,104,0.1368421052631579,91.0,1.052631578947382
+2,2.0,"call, test, insurance, day, pay, result, receive, phone, send, charge",36,0.04205607476635514,2.0,0.020833333333333332,34,0.04473684210526316,32.0,114.73684210526318
+3,3.0,"people, review, place, bad, talk, give, rude, make, treat, leave",72,0.08411214953271028,13.0,0.13541666666666666,59,0.07763157894736843,46.0,-42.672064777327925
+4,4.0,"store, order, prescription, pharmacy, employee, customer, time, line, location, manager",65,0.07593457943925233,5.0,0.052083333333333336,60,0.07894736842105263,55.0,51.578947368421034
+5,5.0,"mask, room, wait, people, wear, walk, check, hand, place, sit",36,0.04205607476635514,4.0,0.041666666666666664,32,0.042105263157894736,28.0,1.0526315789473717
+6,6.0,"appointment, time, office, call, doctor, minute, wait, make, hour, schedule",3,0.0035046728971962616,,,3,0.003947368421052632,,
+7,7.0,"care, patient, staff, covid, medical, visit, facility, health, concern, practice",33,0.038551401869158876,2.0,0.020833333333333332,31,0.04078947368421053,29.0,95.78947368421055
+8,8.0,"year, pain, work, doctor, issue, back, week, month, find, medication",101,0.11799065420560748,8.0,0.08333333333333333,93,0.12236842105263158,85.0,46.842105263157904
+9,9.0,"feel, great, good, experience, make, friendly, place, time, nice, service",303,0.35397196261682246,40.0,0.4166666666666667,263,0.3460526315789474,223.0,-16.94736842105263

@@ -1,0 +1,16 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0.0,0.0,"feel, make, treatment, amazing, skin, love, comfortable, result, face, happy",54,0.0630841121495327,5.0,0.052083333333333336,49,0.06447368421052632,44.0,23.78947368421053
+1.0,1.0,"pain, back, week, walk, day, foot, start, hand, leave, give",30,0.035046728971962614,4.0,0.041666666666666664,26,0.034210526315789476,22.0,-17.894736842105253
+2.0,2.0,"call, appointment, phone, day, schedule, week, receive, message, appt, leave",8,0.009345794392523364,2.0,0.020833333333333332,6,0.007894736842105263,4.0,-62.10526315789473
+3.0,3.0,"make, baby, feel, experience, son, child, daughter, husband, kid, give",18,0.02102803738317757,,,18,0.02368421052631579,,
+4.0,4.0,"insurance, pay, charge, bill, receive, send, money, company, visit, cost",12,0.014018691588785047,1.0,0.010416666666666666,11,0.014473684210526316,10.0,38.94736842105264
+5.0,5.0,"doctor, care, test, clinic, urgent, blood, result, symptom, visit, medical",24,0.028037383177570093,1.0,0.010416666666666666,23,0.030263157894736843,22.0,190.52631578947367
+6.0,6.0,"work, make, client, good, life, change, start, plan, group, person",197,0.23014018691588786,20.0,0.20833333333333334,177,0.23289473684210527,157.0,11.789473684210522
+7.0,7.0,"place, massage, area, good, lot, offer, clean, nice, service, price",92,0.10747663551401869,7.0,0.07291666666666667,85,0.1118421052631579,78.0,53.38345864661653
+10.0,12.0,"work, therapist, treatment, session, feel, life, body, therapy, physical, exercise",48,0.056074766355140186,6.0,0.0625,42,0.05526315789473684,36.0,-11.578947368421055
+11.0,13.0,"patient, medical, practice, health, wife, provider, state, lack, provide, record",103,0.12032710280373832,13.0,0.13541666666666666,90,0.11842105263157894,77.0,-12.550607287449392
+12.0,14.0,"service, customer, prescription, pharmacy, store, order, employee, line, location, pick",59,0.0689252336448598,6.0,0.0625,53,0.06973684210526315,47.0,11.578947368421044
+13.0,15.0,"people, rude, bad, treat, talk, woman, person, job, lady, unprofessional",67,0.07827102803738317,9.0,0.09375,58,0.07631578947368421,49.0,-18.596491228070175
+14.0,16.0,"wait, hour, minute, time, room, check, back, walk, long, sit",3,0.0035046728971962616,,,3,0.003947368421052632,,
+15.0,17.0,"give, place, time, review, bad, star, back, medication, thing, write",88,0.102803738317757,5.0,0.052083333333333336,83,0.10921052631578948,78.0,109.68421052631578
+16.0,19.0,"surgery, procedure, eye, make, follow, result, surgeon, day, consultation, remove",4,0.004672897196261682,3.0,0.03125,1,0.0013157894736842105,-2.0,-95.78947368421052

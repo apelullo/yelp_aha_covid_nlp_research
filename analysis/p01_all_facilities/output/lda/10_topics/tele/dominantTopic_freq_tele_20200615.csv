@@ -1,0 +1,11 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"make, experience, time, family, person, baby, due, support, child, son",60,0.07009345794392523,6,0.0625,54,0.07105263157894737,48,13.684210526315788
+1,1.0,"appointment, office, patient, doctor, time, schedule, telemedicine, wait, minute, practice",117,0.1366822429906542,5,0.052083333333333336,112,0.14736842105263157,107,182.94736842105257
+2,2.0,"care, great, staff, easy, telehealth, feel, provide, good, extremely, professional",125,0.14602803738317757,12,0.125,113,0.14868421052631578,101,18.947368421052623
+3,3.0,"time, question, week, day, review, answer, concern, problem, find, email",63,0.07359813084112149,11,0.11458333333333333,52,0.06842105263157895,41,-40.28708133971291
+4,4.0,"visit, insurance, medical, medication, charge, virtual, place, month, provider, year",95,0.11098130841121495,18,0.1875,77,0.1013157894736842,59,-45.96491228070176
+5,5.0,"doctor, give, test, back, day, hour, wait, covid, check, nurse",79,0.09228971962616822,15,0.15625,64,0.08421052631578947,49,-46.10526315789474
+6,6.0,"work, session, pain, therapist, issue, exercise, month, find, year, home",116,0.13551401869158877,6,0.0625,110,0.14473684210526316,104,131.57894736842107
+7,7.0,"work, make, person, thing, week, start, people, life, back, meeting",48,0.056074766355140186,9,0.09375,39,0.05131578947368421,30,-45.26315789473684
+8,8.0,"call, phone, receive, prescription, speak, send, place, order, state, appt",72,0.08411214953271028,9,0.09375,63,0.08289473684210526,54,-11.57894736842106
+9,9.0,"feel, zoom, class, love, home, recommend, amazing, online, continue, good",81,0.09462616822429906,5,0.052083333333333336,76,0.1,71,92.0

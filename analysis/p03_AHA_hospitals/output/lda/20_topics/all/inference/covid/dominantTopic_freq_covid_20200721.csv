@@ -1,0 +1,21 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"staff, care, patient, nurse, family, wife, love, good, nursing, unit",1,0.0009551098376313276,,,1,0.0011248593925759281,,
+1,1.0,"nurse, baby, child, son, daughter, time, make, check, experience, give",17,0.01623686723973257,1.0,0.006329113924050633,16,0.01799775028121485,15.0,184.36445444319466
+2,2.0,"life, die, year, heart, hospital, friend, find, end, lose, save",44,0.04202483285577841,6.0,0.0379746835443038,38,0.04274465691788527,32.0,12.560929883764532
+3,3.0,"patient, place, facility, staff, make, lie, member, group, treatment, therapy",189,0.18051575931232092,26.0,0.16455696202531644,163,0.18335208098987626,137.0,11.421649216924814
+4,4.0,"people, place, rude, treat, work, bad, job, employee, unprofessional, attitude",20,0.019102196752626553,5.0,0.03164556962025317,15,0.01687289088863892,10.0,-46.681664791901014
+5,5.0,"pain, give, back, doctor, leave, arm, fall, severe, head, break",61,0.05826170009551098,8.0,0.05063291139240506,53,0.05961754780652419,45.0,17.744656917885273
+6,6.0,"doctor, time, visit, week, appointment, find, month, today, make, issue",41,0.039159503342884434,3.0,0.0189873417721519,38,0.04274465691788527,35.0,125.12185976752907
+7,7.0,"review, experience, make, person, time, understand, thing, hope, write, feel",23,0.021967526265520534,4.0,0.02531645569620253,19,0.021372328458942633,15.0,-15.579302587176597
+8,8.0,"call, mother, speak, phone, back, information, patient, number, contact, leave",20,0.019102196752626553,7.0,0.04430379746835443,13,0.014623172103487065,6.0,-66.99341153784349
+9,9.0,"test, doctor, back, blood, result, symptom, covid, home, send, high",154,0.14708691499522444,39.0,0.2468354430379747,115,0.12935883014623173,76.0,-47.59308932537279
+10,10.0,"care, medical, facility, receive, health, provide, treatment, professional, center, physician",8,0.007640878701050621,,,8,0.008998875140607425,,
+11,11.0,"nurse, mom, question, night, thing, talk, time, feel, start, answer",10,0.009551098376313277,1.0,0.006329113924050633,9,0.010123734533183352,8.0,59.955005624296966
+12,12.0,"great, staff, feel, make, good, amazing, kind, friendly, wonderful, experience",7,0.0066857688634192934,,,7,0.007874015748031496,,
+13,13.0,"insurance, pay, bill, charge, send, service, money, receive, month, cost",99,0.09455587392550144,9.0,0.056962025316455694,90,0.10123734533183353,81.0,77.72778402699664
+14,14.0,"surgery, day, home, husband, stay, nurse, procedure, admit, surgeon, morning",62,0.05921680993314231,6.0,0.0379746835443038,56,0.06299212598425197,50.0,65.87926509186352
+15,15.0,"room, walk, bed, leave, floor, clean, door, patient, sit, put",30,0.02865329512893983,5.0,0.03164556962025317,25,0.0281214848143982,20.0,-11.136107986501694
+16,16.0,"give, time, day, medication, discharge, med, send, find, issue, medicine",23,0.021967526265520534,5.0,0.03164556962025317,18,0.020247469066366704,13.0,-36.01799775028122
+17,17.0,"good, food, lot, nice, thing, place, parking, area, pretty, work",202,0.1929321872015282,29.0,0.18354430379746836,173,0.19460067491563554,144.0,6.02381598851867
+18,18.0,"wait, hour, room, emergency, minute, check, long, time, sit, arrive",35,0.033428844317096466,4.0,0.02531645569620253,31,0.03487064116985377,27.0,37.739032620922394
+19,19.0,"hospital, bad, give, star, experience, treat, horrible, service, recommend, bring",1,0.0009551098376313276,,,1,0.0011248593925759281,,

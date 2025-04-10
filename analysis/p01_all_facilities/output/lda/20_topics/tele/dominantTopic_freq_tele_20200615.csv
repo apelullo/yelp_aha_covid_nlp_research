@@ -1,0 +1,21 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"feel, make, love, experience, couple, start, anxiety, ease, team, share",33,0.038551401869158876,4.0,0.041666666666666664,29,0.038157894736842106,25.0,-8.42105263157894
+1,1.0,"life, work, find, plan, month, year, change, program, live, home",38,0.04439252336448598,3.0,0.03125,35,0.046052631578947366,32.0,47.36842105263157
+2,2.0,"issue, time, extremely, make, service, concern, friendly, kind, person, super",62,0.07242990654205607,6.0,0.0625,56,0.07368421052631578,50.0,17.894736842105253
+3,3.0,"prescription, medication, refill, bad, state, order, pharmacy, med, problem, contact",44,0.0514018691588785,7.0,0.07291666666666667,37,0.04868421052631579,30.0,-33.23308270676692
+4,4.0,"patient, doctor, medical, make, office, health, practice, review, provider, year",46,0.053738317757009345,3.0,0.03125,43,0.056578947368421055,40.0,81.05263157894737
+5,5.0,"pain, exercise, body, follow, pt, injury, physical, excellent, issue, run",52,0.06074766355140187,3.0,0.03125,49,0.06447368421052632,46.0,106.31578947368423
+6,6.0,"doctor, give, day, symptom, eye, sick, put, medication, antibiotic, explain",44,0.0514018691588785,8.0,0.08333333333333333,36,0.04736842105263158,28.0,-43.1578947368421
+7,7.0,"check, nurse, facility, room, minute, place, hour, staff, leave, happy",39,0.0455607476635514,10.0,0.10416666666666667,29,0.038157894736842106,19.0,-63.36842105263158
+8,8.0,"call, wait, doctor, day, minute, appointment, hour, time, receive, message",59,0.0689252336448598,4.0,0.041666666666666664,55,0.07236842105263158,51.0,73.68421052631581
+9,9.0,"visit, time, doctor, virtual, experience, follow, fact, hard, person, worth",47,0.054906542056074766,8.0,0.08333333333333333,39,0.05131578947368421,31.0,-38.421052631578945
+10,10.0,"care, staff, covid, family, professional, due, physician, great, understand, provide",49,0.05724299065420561,7.0,0.07291666666666667,42,0.05526315789473684,35.0,-24.21052631578948
+11,11.0,"baby, give, support, child, pandemic, birth, hospital, daughter, thing, husband",44,0.0514018691588785,3.0,0.03125,41,0.05394736842105263,38.0,72.63157894736842
+12,12.0,"appointment, office, schedule, phone, patient, telemedicine, email, cancel, due, receptionist",45,0.052570093457943924,1.0,0.010416666666666666,44,0.05789473684210526,43.0,455.7894736842106
+13,13.0,"zoom, great, class, good, amazing, set, home, move, provide, forward",47,0.054906542056074766,,,47,0.06184210526315789,,
+14,14.0,"back, give, test, find, time, result, covid, today, walk, information",26,0.030373831775700934,4.0,0.041666666666666664,22,0.02894736842105263,18.0,-30.526315789473678
+15,15.0,"session, telehealth, work, easy, therapist, helpful, continue, highly_recommend, offer, therapy",57,0.06658878504672897,2.0,0.020833333333333332,55,0.07236842105263158,53.0,247.36842105263165
+16,16.0,"people, place, talk, make, happen, hope, speak, woman, client, center",16,0.018691588785046728,3.0,0.03125,13,0.017105263157894738,10.0,-45.263157894736835
+17,17.0,"call, insurance, phone, charge, pay, appt, receive, bill, horrible, today",55,0.06425233644859812,11.0,0.11458333333333333,44,0.05789473684210526,33.0,-49.473684210526315
+18,18.0,"recommend, month, year, week, son, surgery, kid, job, procedure, sleep",34,0.0397196261682243,7.0,0.07291666666666667,27,0.035526315789473684,20.0,-51.27819548872181
+19,19.0,"week, person, start, work, meeting, good, meet, back, leave, thing",19,0.02219626168224299,2.0,0.020833333333333332,17,0.02236842105263158,15.0,7.368421052631585

@@ -1,0 +1,11 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"doctor, pain, give, emergency, back, walk, room, question, leave, show",76,0.0725883476599809,19,0.12025316455696203,57,0.06411698537682789,38,-46.68166479190102
+1,1.0,"hospital, mom, treat, bad, medical, life, time, place, horrible, med",85,0.08118433619866285,10,0.06329113924050633,75,0.0843644544431946,65,33.29583802024745
+2,2.0,"nurse, time, surgery, day, stay, baby, make, due, night, food",98,0.0936007640878701,13,0.08227848101265822,85,0.09561304836895389,72,16.206628017651656
+3,3.0,"patient, mother, facility, visit, issue, due, pay, health, woman, person",98,0.0936007640878701,11,0.06962025316455696,87,0.09786276715410573,76,40.56652009407915
+4,4.0,"call, give, day, care, phone, time, family, speak, talk, hospital",105,0.10028653295128939,6,0.0379746835443038,99,0.11136107986501688,93,193.25084364454446
+5,5.0,"patient, hospital, people, place, mask, employee, provide, hand, line, procedure",120,0.11461318051575932,19,0.12025316455696203,101,0.11361079865016872,82,-5.523651648807064
+6,6.0,"staff, care, feel, make, good, experience, great, nice, work, kind",149,0.14231136580706782,6,0.0379746835443038,143,0.1608548931383577,137,323.58455193100866
+7,7.0,"nurse, thing, put, wife, give, day, son, explain, change, experience",66,0.06303724928366762,17,0.10759493670886076,49,0.05511811023622047,32,-48.77257989810098
+8,8.0,"test, covid, virus, symptom, work, home, result, week, send, child",127,0.12129894937917861,19,0.12025316455696203,108,0.12148481439820022,89,1.0242140785033382
+9,9.0,"wait, hour, room, leave, check, time, back, minute, blood, sit",123,0.1174785100286533,38,0.24050632911392406,85,0.09561304836895389,47,-60.245100941329696

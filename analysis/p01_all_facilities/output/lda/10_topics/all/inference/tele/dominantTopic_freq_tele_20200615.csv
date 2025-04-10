@@ -1,0 +1,11 @@
+,dominant_topic,topic_keywords,doc_count_all,doc_pct_all,doc_count_t1,doc_pct_t1,doc_count_t2,doc_pct_t2,doc_count_diff,doc_pct_diff
+0,0.0,"doctor, care, patient, visit, office, test, medical, year, give, issue",16,0.018691588785046728,,,16,0.021052631578947368,,
+1,1.0,"make, feel, experience, time, question, baby, good, son, child, daughter",59,0.0689252336448598,4.0,0.041666666666666664,55,0.07236842105263158,51.0,73.68421052631581
+2,2.0,"insurance, pay, review, send, money, charge, bill, receive, month, company",88,0.102803738317757,10.0,0.10416666666666667,78,0.10263157894736842,68.0,-1.4736842105263204
+3,3.0,"call, appointment, time, office, day, make, phone, week, back, schedule",10,0.011682242990654205,3.0,0.03125,7,0.009210526315789473,4.0,-70.52631578947368
+4,4.0,"service, people, place, bad, customer, prescription, pharmacy, rude, give, location",25,0.029205607476635514,,,25,0.03289473684210526,,
+5,5.0,"care, patient, staff, hospital, nurse, family, facility, home, stay, day",213,0.2488317757009346,26.0,0.2708333333333333,187,0.24605263157894736,161.0,-9.1497975708502
+6,6.0,"wait, hour, room, time, minute, back, check, walk, leave, long",125,0.14602803738317757,13.0,0.13541666666666666,112,0.14736842105263157,99.0,8.825910931174086
+7,7.0,"work, pain, year, treatment, life, back, therapist, session, body, month",159,0.18574766355140188,29.0,0.3020833333333333,130,0.17105263157894737,101.0,-43.37568058076224
+8,8.0,"staff, great, recommend, good, highly, friendly, professional, nice, experience, love",57,0.06658878504672897,2.0,0.020833333333333332,55,0.07236842105263158,53.0,247.36842105263165
+9,9.0,"surgery, make, result, procedure, feel, eye, year, treatment, skin, good",104,0.12149532710280374,9.0,0.09375,95,0.125,86.0,33.33333333333333

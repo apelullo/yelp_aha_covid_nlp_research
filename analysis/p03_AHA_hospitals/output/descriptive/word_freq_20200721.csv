@@ -1,0 +1,21 @@
+,word_all_t1,count_all_t1,word_all_t2,count_all_t2,word_covid_t1,count_covid_t1,word_covid_t2,count_covid_t2,word_tele_t1,count_tele_t1,word_tele_t2,count_tele_t2,word_merge_t2,count_merge_t2
+0,hospital,5685,hospital,3496,hospital,220,hospital,1175,staff,13,doctor,52,doctor,37
+1,care,3374,care,1966,told,170,covid,785,care,10,time,36,hospital,27
+2,room,2846,would,1893,er,169,would,639,hospital,9,hospital,34,care,24
+3,staff,2833,staff,1740,doctor,164,care,622,one,9,care,32,covid,23
+4,get,2772,get,1731,room,160,nurse,622,people,8,would,31,father,21
+5,one,2634,one,1652,nurse,151,get,586,nurse,8,nurse,24,day,21
+6,er,2606,nurse,1595,get,145,time,568,get,8,room,24,nurse,21
+7,would,2597,time,1518,would,145,one,566,say,7,day,24,would,20
+8,nurse,2587,go,1516,said,137,staff,554,room,7,asked,24,time,19
+9,doctor,2380,nurses,1480,go,128,told,540,said,7,one,23,asked,18
+10,time,2361,told,1419,one,127,nurses,514,medical,7,covid,23,one,18
+11,go,2328,doctor,1288,time,125,go,496,better,5,get,22,19,17
+12,nurses,2151,like,1272,back,114,said,470,back,5,father,21,get,17
+13,told,2123,room,1267,went,106,room,453,video,5,call,21,back,17
+14,back,1979,er,1252,people,103,doctor,431,security,5,back,20,covid 19,17
+15,like,1971,even,1191,care,102,could,423,anything,5,could,20,room,16
+16,even,1918,said,1123,us,101,back,416,lori,5,see,19,us,16
+17,hours,1843,back,1117,could,101,19,414,providence,5,dr,19,could,15
+18,pain,1788,could,1109,like,92,like,408,us,5,us,19,getting,14
+19,said,1775,never,1085,came,91,covid 19,405,patients,4,go,19,never,14

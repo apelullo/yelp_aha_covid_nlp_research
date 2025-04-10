@@ -1,0 +1,151 @@
+,name_t1,count_t1,name_t2,count_t2,name_covid_t1,count_covid_t1,name_covid_t2,count_covid_t2,name_tele_t1,count_tele_t1,name_tele_t2,count_tele_t2,name_merge_t1,count_merge_t1,name_merge_t2,count_merge_t2
+0,Skin Care,9655,Pharmacy,6537,Urgent Care,273.0,Pharmacy,1928,Urgent Care,33.0,Family Practice,67.0,Medical Centers,3.0,Family Practice,31.0
+1,Urgent Care,7756,Skin Care,3309,Medical Centers,158.0,Convenience Stores,720,Family Practice,24.0,Urgent Care,57.0,Urgent Care,2.0,Urgent Care,29.0
+2,Medical Centers,7235,Convenience Stores,3046,Hospitals,141.0,Skin Care,486,Counseling & Mental Health,11.0,Sports Medicine,45.0,Occupational Therapy,1.0,Trainers,28.0
+3,Medical Spas,6688,Medical Spas,2815,Skin Care,115.0,Family Practice,452,Medical Centers,9.0,Counseling & Mental Health,45.0,Doctors,1.0,Physical Therapy,24.0
+4,Physical Therapy,5667,Sports Medicine,2371,Pharmacy,114.0,Walk-in Clinics,447,Doctors,6.0,Trainers,41.0,Massage Therapy,1.0,Childbirth Education,23.0
+5,Pharmacy,5629,Physical Therapy,2048,Family Practice,91.0,Medical Centers,410,Life Coach,6.0,Nutritionists,40.0,Internal Medicine,1.0,Nutritionists,22.0
+6,Massage Therapy,5239,Medical Centers,1891,Medical Spas,77.0,Physical Therapy,367,Medical Spas,5.0,Internal Medicine,37.0,Hospice,1.0,Internal Medicine,21.0
+7,Family Practice,5111,Nutritionists,1882,Doctors,72.0,Urgent Care,353,Psychiatrists,5.0,Medical Centers,37.0,Family Practice,1.0,Sports Medicine,21.0
+8,Hospitals,4489,Family Practice,1859,Walk-in Clinics,64.0,Medical Spas,340,Emergency Rooms,5.0,Physical Therapy,35.0,Preventive Medicine,1.0,Medical Centers,20.0
+9,Dermatologists,3931,Massage Therapy,1837,Drugstores,54.0,Massage Therapy,332,Internal Medicine,5.0,Childbirth Education,29.0,,,Medical Spas,15.0
+10,Drugstores,3841,Ophthalmologists,1439,Internal Medicine,53.0,Ophthalmologists,326,Home Health Care,4.0,Pain Management,28.0,,,Pediatricians,15.0
+11,Obstetricians & Gynecologists,3706,Urgent Care,1435,Pediatricians,52.0,Sports Medicine,325,Pediatricians,4.0,Medical Spas,24.0,,,Pain Management,14.0
+12,Cosmetic Surgeons,3678,Cosmetic Surgeons,1426,Convenience Stores,49.0,Nutritionists,260,Walk-in Clinics,4.0,Pilates,22.0,,,Massage Therapy,13.0
+13,Convenience Stores,3636,Laser Eye Surgery/Lasik,1411,Massage Therapy,39.0,Laser Eye Surgery/Lasik,256,Concierge Medicine,4.0,Skin Care,21.0,,,Skin Care,12.0
+14,Doctors,3248,Laser Hair Removal,1396,Grocery,36.0,Doctors,254,IV Hydration,3.0,Massage Therapy,21.0,,,Pilates,12.0
+15,Laser Hair Removal,3107,Walk-in Clinics,1303,Emergency Rooms,35.0,Cosmetic Surgeons,201,Cosmetic Surgeons,3.0,Pediatricians,19.0,,,Psychologists,12.0
+16,Sports Medicine,2982,Orthopedists,1127,Laboratory Testing,33.0,Rehabilitation Center,200,Diagnostic Imaging,3.0,Psychiatrists,18.0,,,Counseling & Mental Health,11.0
+17,Pediatricians,2856,Rehabilitation Center,1012,Physical Therapy,31.0,Pediatricians,192,Skin Care,3.0,Cosmetic Surgeons,17.0,,,Occupational Therapy,10.0
+18,Ophthalmologists,2778,Counseling & Mental Health,1009,Home Health Care,28.0,Occupational Therapy,192,Physical Therapy,2.0,Occupational Therapy,17.0,,,Lactation Services,10.0
+19,Internal Medicine,2639,Pain Management,980,Laser Eye Surgery/Lasik,27.0,Eyewear & Opticians,190,Obstetricians & Gynecologists,2.0,Walk-in Clinics,16.0,,,Psychiatrists,10.0
+20,Optometrists,2601,Plastic Surgeons,959,Laser Hair Removal,27.0,Internal Medicine,190,Endocrinologists,2.0,Psychologists,16.0,,,Weight Loss Centers,9.0
+21,Counseling & Mental Health,2496,Eyewear & Opticians,839,Sleep Specialists,27.0,Laser Hair Removal,174,Laboratory Testing,2.0,Weight Loss Centers,15.0,,,Massage,9.0
+22,Chiropractors,2458,Doctors,813,Optometrists,27.0,Emergency Rooms,167,Hospitals,2.0,Lactation Services,14.0,,,Acupuncture,9.0
+23,Orthopedists,2419,Pediatricians,811,Massage,26.0,Radiologists,162,Pharmacy,2.0,Acupuncture,14.0,,,Speech Therapists,8.0
+24,Massage,2387,Occupational Therapy,789,Ophthalmologists,26.0,Orthopedists,155,Drugstores,2.0,Life Coach,13.0,,,Ophthalmologists,8.0
+25,Laser Eye Surgery/Lasik,2359,Internal Medicine,783,Dermatologists,25.0,Diagnostic Imaging,147,Dermatologists,2.0,Yoga,13.0,,,Prenatal/Perinatal Care,8.0
+26,Nutritionists,2213,Surgeons,764,Nutritionists,23.0,Pain Management,145,Hypnosis/Hypnotherapy,2.0,Massage,13.0,,,Concierge Medicine,7.0
+27,Diagnostic Imaging,2165,Weight Loss Centers,675,IV Hydration,23.0,Skilled Nursing,142,Massage Therapy,2.0,Prenatal/Perinatal Care,12.0,,,Walk-in Clinics,7.0
+28,Laboratory Testing,2006,Radiologists,612,Cosmetic Surgeons,22.0,Surgeons,106,Naturopathic/Holistic,1.0,Concierge Medicine,11.0,,,Yoga,7.0
+29,Walk-in Clinics,1906,Diagnostic Imaging,573,Medical Supplies,20.0,Drugstores,105,Preventive Medicine,1.0,Health Coach,11.0,,,Doulas,6.0
+30,Pain Management,1687,Body Contouring,560,Obstetricians & Gynecologists,19.0,Hospitals,103,Diagnostic Services,1.0,Sleep Specialists,10.0,,,Rehabilitation Center,6.0
+31,Rehabilitation Center,1675,Obstetricians & Gynecologists,540,Body Contouring,18.0,Weight Loss Centers,102,Orthodontists,1.0,Body Contouring,9.0,,,Parenting Classes,6.0
+32,Plastic Surgeons,1562,Emergency Rooms,539,Eyewear & Opticians,18.0,Optometrists,98,Yoga,1.0,Doulas,9.0,,,Life Coach,6.0
+33,Podiatrists,1349,Dermatologists,537,Diagnostic Imaging,16.0,Counseling & Mental Health,97,Ophthalmologists,1.0,Speech Therapists,9.0,,,Chiropractors,5.0
+34,Eyewear & Opticians,1340,Fertility,513,Weight Loss Centers,16.0,Childbirth Education,91,Speech Therapists,1.0,Dermatologists,8.0,,,Orthopedists,5.0
+35,Home Health Care,1270,Chiropractors,495,Rehabilitation Center,15.0,IV Hydration,90,Nutritionists,1.0,Rehabilitation Center,8.0,,,Health Coach,5.0
+36,Weight Loss Centers,1254,Prenatal/Perinatal Care,481,Sports Medicine,13.0,Ultrasound Imaging Centers,83,Business Consulting,1.0,Ophthalmologists,8.0,,,Pharmacy,4.0
+37,Acupuncture,1160,IV Hydration,459,Day Spas,13.0,Home Health Care,82,CPR Classes,1.0,Pharmacy,8.0,,,Gyms,4.0
+38,Psychiatrists,1151,Acupuncture,447,Gastroenterologist,12.0,Obstetricians & Gynecologists,80,Weight Loss Centers,1.0,Hospitals,8.0,,,Hospitals,4.0
+39,IV Hydration,1120,Skilled Nursing,438,Waxing,12.0,Acupuncture,80,Cryotherapy,1.0,Naturopathic/Holistic,8.0,,,Traditional Chinese Medicine,4.0
+40,Surgeons,1098,Home Health Care,434,Naturopathic/Holistic,11.0,Trainers,78,Plastic Surgeons,1.0,Obstetricians & Gynecologists,8.0,,,Boot Camps,4.0
+41,Occupational Therapy,1064,Optometrists,434,Orthopedists,11.0,Prenatal/Perinatal Care,77,Saunas,1.0,Laser Eye Surgery/Lasik,7.0,,,Body Contouring,4.0
+42,Emergency Rooms,1007,Drugstores,426,Radiologists,11.0,Fertility,72,General Dentistry,1.0,Orthopedists,7.0,,,Sleep Specialists,4.0
+43,Ear Nose & Throat,976,Trainers,413,Acupuncture,11.0,Plastic Surgeons,71,Optometrists,1.0,Surgeons,7.0,,,Audiologist,3.0
+44,Body Contouring,949,Psychiatrists,412,Counseling & Mental Health,11.0,Laboratory Testing,68,Animal Assisted Therapy,1.0,Chiropractors,7.0,,,Addiction Medicine,3.0
+45,Trainers,833,Personal Care Services,404,Chiropractors,10.0,Speech Therapists,67,Occupational Therapy,1.0,Midwives,6.0,,,Neurologist,3.0
+46,Fertility,820,Hospitals,403,Occupational Therapy,10.0,Body Contouring,67,Body Contouring,1.0,Parenting Classes,6.0,,,Laser Hair Removal,3.0
+47,Grocery,817,Naturopathic/Holistic,373,Skilled Nursing,9.0,Lactation Services,66,Doulas,1.0,IV Hydration,6.0,,,Cosmetic Surgeons,3.0
+48,Day Spas,802,Lactation Services,355,Cryotherapy,9.0,Sleep Specialists,64,Hospice,1.0,Laboratory Testing,6.0,,,IV Hydration,3.0
+49,Radiologists,801,Ultrasound Imaging Centers,352,Emergency Medicine,8.0,Personal Care Services,64,Allergists,1.0,Laser Hair Removal,6.0,,,Dentists,3.0
+50,Gastroenterologist,745,Sleep Specialists,335,Pain Management,8.0,Psychiatrists,62,Tattoo Removal,1.0,Traditional Chinese Medicine,6.0,,,Laser Eye Surgery/Lasik,3.0
+51,Allergists,731,Childbirth Education,312,Psychiatrists,7.0,Chiropractors,62,Laser Eye Surgery/Lasik,1.0,Boot Camps,6.0,,,Hepatologists,2.0
+52,Sleep Specialists,655,Life Coach,310,Cardiologists,7.0,Allergists,60,Convenience Stores,1.0,Doctors,5.0,,,Drugstores,2.0
+53,Neurologist,652,Allergists,309,Podiatrists,6.0,Dermatologists,60,Parenting Classes,1.0,Urologists,4.0,,,Mohels,2.0
+54,Cardiologists,589,Health Coach,303,Speech Therapists,6.0,Massage,55,Pilates,1.0,Dietitians,4.0,,,Aestheticians,2.0
+55,Skilled Nursing,575,Addiction Medicine,300,Diagnostic Services,6.0,Naturopathic/Holistic,52,Lactation Services,1.0,Gyms,4.0,,,Urologists,2.0
+56,Naturopathic/Holistic,569,Midwives,282,Neurologist,6.0,Grocery,44,Cosmetic Dentists,1.0,Eyewear & Opticians,4.0,,,Herbal Shops,2.0
+57,Waxing,554,Massage,277,Trainers,6.0,Assisted Living Facilities,43,Chiropractors,1.0,Rheumatologists,4.0,,,Dermatologists,2.0
+58,Lactation Services,521,Laboratory Testing,269,Gas Stations,5.0,Gas Stations,41,Acupuncture,1.0,Endocrinologists,4.0,,,Acne Treatment,2.0
+59,Speech Therapists,511,Traditional Chinese Medicine,256,Aestheticians,5.0,Bakeries,40,Orthopedists,1.0,Cardiologists,4.0,,,Endocrinologists,2.0
+60,Ultrasound Imaging Centers,507,Speech Therapists,254,Endocrinologists,4.0,Doulas,39,Childbirth Education,1.0,Community Service/Non-Profit,4.0,,,Home Health Care,2.0
+61,Psychologists,488,Orthotics,229,Acne Treatment,4.0,Cardiologists,38,Sleep Specialists,1.0,Diagnostic Services,4.0,,,Orthotics,2.0
+62,Urologists,465,Tattoo Removal,199,Allergists,4.0,Pilates,37,Oral Surgeons,1.0,Spine Surgeons,3.0,,,Surgeons,2.0
+63,Reflexology,464,Waxing,196,Plastic Surgeons,4.0,Medical Supplies,36,Insurance,1.0,Neurologist,3.0,,,Astrologers,2.0
+64,Prenatal/Perinatal Care,439,Doulas,196,Ear Nose & Throat,4.0,Midwives,36,,,Audiologist,3.0,,,Matchmakers,2.0
+65,Midwives,411,Spine Surgeons,196,Vitamins & Supplements,4.0,Traditional Chinese Medicine,36,,,Addiction Medicine,3.0,,,Memory Care,2.0
+66,Doulas,407,Diagnostic Services,184,Pulmonologist,3.0,Concierge Medicine,35,,,Dentists,3.0,,,Placenta Encapsulations,2.0
+67,Tattoo Removal,383,Podiatrists,182,Prenatal/Perinatal Care,3.0,Psychologists,35,,,Career Counseling,3.0,,,Rheumatologists,2.0
+68,Health Coach,357,Neurologist,179,Lactation Services,3.0,Tattoo Removal,34,,,Acne Treatment,3.0,,,Podiatrists,2.0
+69,Life Coach,344,Assisted Living Facilities,177,Spray Tanning,3.0,Waxing,34,,,Orthotics,3.0,,,Cardiologists,2.0
+70,Diagnostic Services,333,Psychologists,177,Ultrasound Imaging Centers,3.0,"Beer, Wine & Spirits",31,,,Ultrasound Imaging Centers,2.0,,,Dance Studios,2.0
+71,Endocrinologists,330,Aestheticians,161,Bakeries,3.0,Hospice,31,,,Reiki,2.0,,,Fitness & Instruction,2.0
+72,Spine Surgeons,314,Endocrinologists,161,Childbirth Education,3.0,Community Service/Non-Profit,30,,,Preventive Medicine,2.0,,,Preventive Medicine,2.0
+73,Gyms,310,Concierge Medicine,157,Hospice,3.0,Retirement Homes,30,,,Matchmakers,2.0,,,Ear Nose & Throat,2.0
+74,Aestheticians,309,Oncologist,154,Saunas,3.0,Gastroenterologist,29,,,Insurance,2.0,,,Midwives,2.0
+75,Personal Care Services,303,Hypnosis/Hypnotherapy,152,Delis,3.0,Audiologist,29,,,Dance Studios,2.0,,,Laboratory Testing,1.0
+76,Oncologist,301,Hospice,150,Retirement Homes,3.0,Diagnostic Services,29,,,Herbal Shops,2.0,,,Naturopathic/Holistic,1.0
+77,Traditional Chinese Medicine,287,Vitamins & Supplements,147,Permanent Makeup,2.0,Podiatrists,29,,,Otologists,2.0,,,Boxing,1.0
+78,Addiction Medicine,285,Pilates,142,Doulas,2.0,Vitamins & Supplements,28,,,Plastic Surgeons,2.0,,,Tattoo Removal,1.0
+79,Childbirth Education,269,Yoga,141,Food Delivery Services,2.0,Addiction Medicine,28,,,Hepatologists,2.0,,,Convenience Stores,1.0
+80,Yoga,265,Parenting Classes,137,Food Court,2.0,Spine Surgeons,27,,,Convenience Stores,2.0,,,Diagnostic Services,1.0
+81,General Dentistry,261,Acne Treatment,137,General Dentistry,2.0,Parenting Classes,27,,,Nurse Practitioner,2.0,,,Pulmonologist,1.0
+82,Cryotherapy,260,Cardiologists,136,Eyelash Service,2.0,Cosmetic Dentists,25,,,Aestheticians,2.0,,,General Dentistry,1.0
+83,Acne Treatment,253,Hair Loss Centers,136,Surgeons,2.0,Health Coach,25,,,Memory Care,2.0,,,Doctors,1.0
+84,Hospice,235,Gyms,135,Rheumatologists,2.0,Emergency Medicine,24,,,Fitness & Instruction,2.0,,,Osteopathic Physicians,1.0
+85,Osteopathic Physicians,214,Community Service/Non-Profit,134,Health & Medical,2.0,Ear Nose & Throat,24,,,Placenta Encapsulations,2.0,,,Optometrists,1.0
+86,Pulmonologist,213,Medical Supplies,133,Nephrologists,2.0,Life Coach,24,,,Diagnostic Imaging,2.0,,,Obstetricians & Gynecologists,1.0
+87,Orthotics,208,Gastroenterologist,132,Assisted Living Facilities,2.0,Yoga,23,,,Mohels,2.0,,,Hearing Aid Providers,1.0
+88,Saunas,199,Ear Nose & Throat,130,Alternative Medicine,2.0,Gyms,22,,,Gerontologists,2.0,,,Skilled Nursing,1.0
+89,Reiki,197,Audiologist,129,Memory Care,2.0,Aestheticians,21,,,Fertility,2.0,,,,
+90,Hair Removal,196,Osteopathic Physicians,123,Halotherapy,2.0,Alternative Medicine,20,,,Ear Nose & Throat,2.0,,,,
+91,Rheumatologists,186,Grocery,121,Anesthesiologists,2.0,Hair Loss Centers,20,,,Vascular Medicine,2.0,,,,
+92,Vitamins & Supplements,186,Bakeries,115,Preventive Medicine,2.0,General Dentistry,19,,,Tattoo Removal,2.0,,,,
+93,Nurse Practitioner,186,Placenta Encapsulations,113,Juice Bars & Smoothies,2.0,Neurologist,19,,,Astrologers,2.0,,,,
+94,Vascular Medicine,180,Preventive Medicine,112,Fertility,2.0,Endocrinologists,18,,,Podiatrists,2.0,,,,
+95,Community Service/Non-Profit,179,Retirement Homes,109,Midwives,2.0,Elder Care Planning,18,,,Drugstores,2.0,,,,
+96,Assisted Living Facilities,175,Nurse Practitioner,102,Spine Surgeons,2.0,Osteopathic Physicians,17,,,Home Health Care,2.0,,,,
+97,Eyelash Service,173,Vascular Medicine,101,Hair Removal,2.0,Vascular Medicine,15,,,Sports Clubs,1.0,,,,
+98,Anesthesiologists,173,Behavior Analysts,100,Health Markets,2.0,Acne Treatment,15,,,Day Spas,1.0,,,,
+99,Oral Surgeons,172,Alternative Medicine,99,Wholesale Stores,2.0,Preventive Medicine,15,,,Gastroenterologist,1.0,,,,
+100,Reproductive Health Services,168,General Dentistry,98,Health Coach,2.0,Orthotics,14,,,General Dentistry,1.0,,,,
+101,Concierge Medicine,168,Reiki,95,Life Coach,2.0,Boot Camps,14,,,Optometrists,1.0,,,,
+102,Audiologist,168,Emergency Medicine,88,Urologists,2.0,Oncologist,14,,,Hearing Aid Providers,1.0,,,,
+103,Retina Specialists,167,Urologists,88,Hypnosis/Hypnotherapy,2.0,Fitness & Instruction,14,,,Alternative Medicine,1.0,,,,
+104,Hypnosis/Hypnotherapy,167,Cosmetic Dentists,88,Yoga,1.0,Nurse Practitioner,13,,,Skilled Nursing,1.0,,,,
+105,Hair Loss Centers,165,"Beer, Wine & Spirits",87,Infectious Disease Specialists,1.0,Hearing Aid Providers,13,,,Supernatural Readings,1.0,,,,
+106,Cosmetic Dentists,165,Reproductive Health Services,86,Tattoo Removal,1.0,Memory Care,13,,,Osteopathic Physicians,1.0,,,,
+107,Pilates,162,Reflexology,84,Gyms,1.0,Rheumatologists,13,,,Boxing,1.0,,,,
+108,Retirement Homes,157,Pulmonologist,82,Religious Schools,1.0,Day Spas,12,,,Pulmonologist,1.0,,,,
+109,Preventive Medicine,149,Elder Care Planning,81,Osteopathic Physicians,1.0,Placenta Encapsulations,12,,,Hypnosis/Hypnotherapy,1.0,,,,
+110,Medical Supplies,148,Gas Stations,80,Proctologists,1.0,Urologists,12,,,Waxing,1.0,,,,
+111,Permanent Makeup,148,Dietitians,79,Colleges & Universities,1.0,Hypnosis/Hypnotherapy,12,,,,,,,,
+112,Emergency Medicine,147,Anesthesiologists,79,Colonics,1.0,Anesthesiologists,11,,,,,,,,
+113,Alternative Medicine,136,Hearing Aid Providers,77,Hearing Aid Providers,1.0,Eyelash Service,11,,,,,,,,
+114,Hearing Aid Providers,135,Rheumatologists,76,Reiki,1.0,Health Markets,10,,,,,,,,
+115,Parenting Classes,127,Eyelash Service,75,Interval Training Gyms,1.0,Behavior Analysts,10,,,,,,,,
+116,Nail Salons,106,Day Spas,74,Parenting Classes,1.0,Delis,10,,,,,,,,
+117,Hair Salons,106,Cosmetics & Beauty Supply,71,Audiologist,1.0,Department Stores,10,,,,,,,,
+118,Behavior Analysts,103,Hair Removal,71,Reflexology,1.0,Pulmonologist,9,,,,,,,,
+119,Juice Bars & Smoothies,102,Fitness & Instruction,65,Oncologist,1.0,Cryotherapy,9,,,,,,,,
+120,Placenta Encapsulations,98,Cryotherapy,63,Business Consulting,1.0,Reiki,9,,,,,,,,
+121,Dietitians,88,Career Counseling,58,Hair Stylists,1.0,Hair Removal,8,,,,,,,,
+122,Health Markets,85,Health Markets,51,Specialty Food,1.0,Cosmetics & Beauty Supply,8,,,,,,,,
+123,Fitness & Instruction,83,Hydrotherapy,49,Oxygen Bars,1.0,Saunas,8,,,,,,,,
+124,Department Stores,82,Saunas,44,Hair Loss Centers,1.0,Dietitians,7,,,,,,,,
+125,Elder Care Planning,76,Pediatric Dentists,43,Department Stores,1.0,Reflexology,7,,,,,,,,
+126,Cosmetics & Beauty Supply,71,Boot Camps,39,Neurotologists,1.0,Maternity Wear,7,,,,,,,,
+127,Colonics,58,Memory Care,36,Speech Training,1.0,Hydrotherapy,7,,,,,,,,
+128,Bakeries,57,Mobility Equipment Sales & Services,35,Pathologists,1.0,Career Counseling,7,,,,,,,,
+129,Orthodontists,56,Oral Surgeons,35,,,Gerontologists,6,,,,,,,,
+130,Spray Tanning,56,Department Stores,34,,,Immunodermatologists,6,,,,,,,,
+131,Boot Camps,52,Immunodermatologists,34,,,Juice Bars & Smoothies,6,,,,,,,,
+132,"Beer, Wine & Spirits",48,Colonics,32,,,Spray Tanning,6,,,,,,,,
+133,Nephrologists,46,Meditation Centers,30,,,Dentists,6,,,,,,,,
+134,Pediatric Dentists,44,Pathologists,29,,,Pediatric Dentists,5,,,,,,,,
+135,Hydrotherapy,44,Permanent Makeup,28,,,CPR Classes,5,,,,,,,,
+136,Memory Care,43,Gerontologists,27,,,Otologists,5,,,,,,,,
+137,Veterinarians,42,Delis,25,,,Colonics,5,,,,,,,,
+138,Gas Stations,41,Endodontists,24,,,Pathologists,5,,,,,,,,
+139,Career Counseling,41,Dentists,23,,,Endodontists,5,,,,,,,,
+140,Meditation Centers,40,Herbal Shops,22,,,Discount Store,5,,,,,,,,
+141,Ayurveda,35,CPR Classes,22,,,Herbal Shops,4,,,,,,,,
+142,Float Spa,34,Nail Salons,22,,,Sex Therapists,4,,,,,,,,
+143,Halotherapy,34,Undersea/Hyperbaric Medicine,21,,,Hepatologists,4,,,,,,,,
+144,Coffee & Tea,33,Pet Services,20,,,Matchmakers,4,,,,,,,,
+145,CPR Classes,33,Maternity Wear,19,,,Orthodontists,4,,,,,,,,
+146,Wholesale Stores,32,Neurotologists,19,,,Nursing Schools,4,,,,,,,,
+147,Hepatologists,31,Orthodontists,19,,,Mobility Equipment Sales & Services,4,,,,,,,,
+148,Mobility Equipment Sales & Services,29,Juice Bars & Smoothies,19,,,Dance Studios,4,,,,,,,,
+149,Neurotologists,29,Hepatologists,18,,,Pet Services,4,,,,,,,,

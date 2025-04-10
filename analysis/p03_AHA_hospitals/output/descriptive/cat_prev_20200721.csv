@@ -1,0 +1,68 @@
+,name_t1,count_t1,name_t2,count_t2,name_covid_t1,count_covid_t1,name_covid_t2,count_covid_t2,name_tele_t1,count_tele_t1,name_tele_t2,count_tele_t2,name_merge_t2,count_merge_t2
+0,Hospitals,1149,Hospitals,931.0,Hospitals,96.0,Hospitals,390.0,Hospitals,3.0,Hospitals,13.0,Hospitals,8.0
+1,Medical Centers,528,Medical Centers,404.0,Medical Centers,40.0,Medical Centers,182.0,Medical Centers,2.0,Medical Centers,7.0,Medical Centers,4.0
+2,Emergency Rooms,113,Emergency Rooms,102.0,Emergency Rooms,9.0,Emergency Rooms,43.0,,,Physical Therapy,3.0,Physical Therapy,3.0
+3,Counseling & Mental Health,77,Counseling & Mental Health,74.0,Pediatricians,2.0,Rehabilitation Center,20.0,,,Orthopedists,2.0,Rehabilitation Center,2.0
+4,Rehabilitation Center,60,Rehabilitation Center,53.0,Rehabilitation Center,2.0,Physical Therapy,19.0,,,Occupational Therapy,2.0,Occupational Therapy,2.0
+5,Doctors,51,Physical Therapy,50.0,Obstetricians & Gynecologists,2.0,Doctors,17.0,,,Rehabilitation Center,2.0,Internal Medicine,1.0
+6,Physical Therapy,43,Doctors,35.0,Internal Medicine,2.0,Occupational Therapy,14.0,,,Counseling & Mental Health,1.0,Counseling & Mental Health,1.0
+7,Occupational Therapy,38,Occupational Therapy,35.0,Diagnostic Imaging,2.0,Counseling & Mental Health,11.0,,,Rheumatologists,1.0,Orthopedists,1.0
+8,Orthopedists,30,Addiction Medicine,26.0,Doctors,2.0,Pediatricians,10.0,,,Urgent Care,1.0,Addiction Medicine,1.0
+9,Addiction Medicine,28,Orthopedists,24.0,Orthopedists,2.0,Urgent Care,8.0,,,Diagnostic Services,1.0,Urgent Care,1.0
+10,Psychiatrists,25,Psychiatrists,18.0,Gastroenterologist,1.0,Orthopedists,8.0,,,Pediatricians,1.0,Pediatricians,1.0
+11,Diagnostic Imaging,25,Pediatricians,16.0,Weight Loss Centers,1.0,Obstetricians & Gynecologists,6.0,,,Internal Medicine,1.0,Diagnostic Services,1.0
+12,Pediatricians,23,Urgent Care,14.0,Home Health Care,1.0,Cardiologists,6.0,,,Addiction Medicine,1.0,,
+13,Urgent Care,22,Obstetricians & Gynecologists,13.0,Addiction Medicine,1.0,Addiction Medicine,5.0,,,,,,
+14,Obstetricians & Gynecologists,22,Cardiologists,11.0,Dermatologists,1.0,Diagnostic Imaging,5.0,,,,,,
+15,Cardiologists,17,Diagnostic Imaging,11.0,Rheumatologists,1.0,Family Practice,4.0,,,,,,
+16,Oncologist,12,Community Service/Non-Profit,7.0,Special Education,1.0,Surgeons,3.0,,,,,,
+17,Speech Therapists,11,Family Practice,7.0,Occupational Therapy,1.0,Psychiatrists,2.0,,,,,,
+18,Community Service/Non-Profit,11,Oncologist,6.0,Nephrologists,1.0,Pharmacy,2.0,,,,,,
+19,Family Practice,7,Speech Therapists,5.0,Urgent Care,1.0,Pain Management,2.0,,,,,,
+20,Internal Medicine,6,Home Health Care,5.0,Surgeons,1.0,Community Service/Non-Profit,2.0,,,,,,
+21,Pain Management,6,Surgeons,4.0,Physical Therapy,1.0,Ear Nose & Throat,2.0,,,,,,
+22,Surgeons,6,Neurologist,4.0,,,Diagnostic Services,2.0,,,,,,
+23,Skilled Nursing,5,Sports Medicine,4.0,,,Colleges & Universities,1.0,,,,,,
+24,Diagnostic Services,5,Ear Nose & Throat,4.0,,,Convenience Stores,1.0,,,,,,
+25,Neurologist,5,Urologists,3.0,,,Walk-in Clinics,1.0,,,,,,
+26,Weight Loss Centers,4,Dermatologists,3.0,,,Speech Therapists,1.0,,,,,,
+27,Psychologists,4,Diagnostic Services,3.0,,,Spine Surgeons,1.0,,,,,,
+28,Nutritionists,4,Psychologists,3.0,,,Gastroenterologist,1.0,,,,,,
+29,Emergency Medicine,4,Laboratory Testing,3.0,,,Laboratory Testing,1.0,,,,,,
+30,Home Health Care,4,Walk-in Clinics,3.0,,,Dermatologists,1.0,,,,,,
+31,Gastroenterologist,3,Weight Loss Centers,3.0,,,Optometrists,1.0,,,,,,
+32,Laboratory Testing,3,Behavior Analysts,3.0,,,Drugstores,1.0,,,,,,
+33,Hospice,3,Pharmacy,3.0,,,Hospice,1.0,,,,,,
+34,Sports Medicine,3,Midwives,2.0,,,Vascular Medicine,1.0,,,,,,
+35,Ear Nose & Throat,3,Colleges & Universities,2.0,,,Internal Medicine,1.0,,,,,,
+36,Dermatologists,3,Skilled Nursing,2.0,,,Sports Medicine,1.0,,,,,,
+37,Spine Surgeons,2,Hospice,2.0,,,Urologists,1.0,,,,,,
+38,Audiologist,2,Ophthalmologists,2.0,,,,,,,,,,
+39,Assisted Living Facilities,2,Optometrists,2.0,,,,,,,,,,
+40,Radiologists,2,Internal Medicine,2.0,,,,,,,,,,
+41,Walk-in Clinics,2,Pain Management,2.0,,,,,,,,,,
+42,Behavior Analysts,2,Radiologists,2.0,,,,,,,,,,
+43,Health & Medical,2,Rheumatologists,1.0,,,,,,,,,,
+44,Colleges & Universities,2,Nephrologists,1.0,,,,,,,,,,
+45,Public Services & Government,2,Skin Care,1.0,,,,,,,,,,
+46,Anesthesiologists,1,Spine Surgeons,1.0,,,,,,,,,,
+47,Dialysis Clinics,1,Emergency Medicine,1.0,,,,,,,,,,
+48,Pharmacy,1,Museums,1.0,,,,,,,,,,
+49,Massage Therapy,1,Health & Medical,1.0,,,,,,,,,,
+50,Skin Care,1,Retirement Homes,1.0,,,,,,,,,,
+51,Fitness & Instruction,1,Lactation Services,1.0,,,,,,,,,,
+52,Sleep Specialists,1,Vascular Medicine,1.0,,,,,,,,,,
+53,Nephrologists,1,Banks & Credit Unions,1.0,,,,,,,,,,
+54,Special Education,1,Anesthesiologists,1.0,,,,,,,,,,
+55,Optometrists,1,Drugstores,1.0,,,,,,,,,,
+56,Ophthalmologists,1,Nutritionists,1.0,,,,,,,,,,
+57,Ultrasound Imaging Centers,1,Convenience Stores,1.0,,,,,,,,,,
+58,Urologists,1,Gastroenterologist,1.0,,,,,,,,,,
+59,Orthotics,1,Sleep Specialists,1.0,,,,,,,,,,
+60,Endocrinologists,1,,,,,,,,,,,,
+61,Rheumatologists,1,,,,,,,,,,,,
+62,Cosmetic Dentists,1,,,,,,,,,,,,
+63,General Dentistry,1,,,,,,,,,,,,
+64,Cosmetic Surgeons,1,,,,,,,,,,,,
+65,Midwives,1,,,,,,,,,,,,
+66,Lactation Services,1,,,,,,,,,,,,
